@@ -2386,7 +2386,6 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Content\.vs\GIS\v17\" />
-    <Folder Include="meeet\" />
     <Folder Include="Theme\css\" />
     <Folder Include="Views\SignUp\" />
   </ItemGroup>
